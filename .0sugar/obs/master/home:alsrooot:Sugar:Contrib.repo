@@ -1,0 +1,7 @@
+[home_alsrooot_Sugar_Contrib]
+name=home:alsrooot:Sugar:Contrib (home_alsrooot_Sugar_Platform_Fedora_11)
+type=rpm-md
+baseurl=http://download.opensuse.org/repositories/home:/alsrooot:/Sugar:/Contrib/home_alsrooot_Sugar_Platform_Fedora_11/
+gpgcheck=1
+gpgkey=http://download.opensuse.org/repositories/home:/alsrooot:/Sugar:/Contrib/home_alsrooot_Sugar_Platform_Fedora_11/repodata/repomd.xml.key
+enabled=1

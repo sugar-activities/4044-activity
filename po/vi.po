@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-20 00:31-0500\n"
+"PO-Revision-Date: 2009-09-25 09:49-0400\n"
+"Last-Translator: Clytie Siddall <clytie@riverland.net.au>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 1.2.1\n"
+
+#: activity/activity.info:2
+msgid "FlipSticks"
+msgstr "Lật Que"
+
+#: activity.py:58
+msgid "Lessons"
+msgstr "Bài học"
+
+#: activity.py:107
+msgid "Set frame"
+msgstr "Đặt khung"
+
+#: activity.py:112
+msgid "Clear frame"
+msgstr "Xoá khung"
+
+#: activity.py:117
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: activity.py:146
+msgid "Play backward / Pause"
+msgstr "Phát lùi / Tạm dừng"
+
+#: activity.py:152
+msgid "Play forward / Pause"
+msgstr "Phát tới / Tạm dừng"
+
+#: activity.py:171
+msgid "Snapshot"
+msgstr "Ảnh chụp"
+
+#: montage.py:657
+msgid "Angle:"
+msgstr "Góc:"
+
+#: montage.py:677
+msgid "Size:"
+msgstr "Kích cỡ :"
+
+#: theme.py:50
+msgid "Size"
+msgstr "Kích cỡ"
+
+#: theme.py:51
+msgid "Angle"
+msgstr "Góc"
+
+#: theme.py:52
+msgid "Lesson Plans"
+msgstr "Kế hoạch Bài học"
+
+#: theme.py:53
+msgid "lp-en"
+msgstr "bài-vi"
+
+#: theme.py:54
+msgid "Export Frame One"
+msgstr "Xuất Khung 1"
+
+#: theme.py:55
+msgid "Head"
+msgstr "Đầu"
+
+#: theme.py:56
+msgid "Neck"
+msgstr "Cổ"
+
+#: theme.py:57
+msgid "Right Shoulder"
+msgstr "Vai bên phải"
+
+#: theme.py:58
+msgid "Upper Right Arm"
+msgstr "Cánh tay trên bên phải"
+
+#: theme.py:59
+msgid "Lower Right Arm"
+msgstr "Cánh tay dưới bên phải"
+
+#: theme.py:60
+msgid "Right Hand"
+msgstr "Tay phải"
+
+#: theme.py:61
+msgid "Left Shoulder"
+msgstr "Vai bên trái"
+
+#: theme.py:62
+msgid "Upper Left Arm"
+msgstr "Cánh tay trên bên trái"
+
+#: theme.py:63
+msgid "Lower Left Arm"
+msgstr "Cánh tay dưới bên trái"
+
+#: theme.py:64
+msgid "Left Hand"
+msgstr "Tay trái"
+
+#: theme.py:65
+msgid "Torso"
+msgstr "Thân"
+
+#: theme.py:66
+msgid "Right Hip"
+msgstr "Hông bên phải"
+
+#: theme.py:67
+msgid "Upper Right Leg"
+msgstr "Cẳng trên bên phải"
+
+#: theme.py:68
+msgid "Lower Right Leg"
+msgstr "Cẳng dưới bên phải"
+
+#: theme.py:69
+msgid "Right Foot"
+msgstr "Chân phải"
+
+#: theme.py:70
+msgid "Left Hip"
+msgstr "Hông bên trái"
+
+#: theme.py:71
+msgid "Upper Left Leg"
+msgstr "Cẳng trên bên trái"
+
+#: theme.py:72
+msgid "Lower Left Leg"
+msgstr "Cẳng dưới bên trái"
+
+#: theme.py:73
+msgid "Left Foot"
+msgstr "Chân trái"
+
+#~ msgid "Montage"
+#~ msgstr "Sự dựng phim"

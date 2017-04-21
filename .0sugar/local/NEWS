@@ -1,0 +1,28 @@
+6
+
+* Fix launching under rainbow
+
+5
+
+* Switch to restricted 0sugar mode until more complex solution is accessible,
+  like Saccharin sugar distribution
+* Add de, es, ja and vi translations
+
+4
+
+* Use new toolbar design in all supported sugars
+
+3
+
+* Fix collab code
+
+2
+
+* OLPC#4740 Implement collaboration
+* OLPC#6892 GPL requirements
+* OLPC#9183 COPYING file is missed
+* OLPC#9166 adapt to non-XO screen resolution
+
+1
+
+* Initial version (ed@whsd.net)

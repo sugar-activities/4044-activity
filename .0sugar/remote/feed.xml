@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet type='text/xsl' href='/interface.xsl'?>
+<interface uri="http://packages.sugarlabs.org/flipsticks"
+           xmlns="http://zero-install.sourceforge.net/2004/injector/interface"
+           xmlns:compile="http://zero-install.sourceforge.net/2006/namespaces/0compile"
+           xmlns:sugar="http://packages.sugarlabs.org/0sugar/namespaces/0sugar">
+    <name>Flip Sticks</name>
+    <summary>Using keyframes, program a stick figure to twist and dance</summary>
+    <description>Flipsticks is a keyframe animation activity that lets you pose
+and program a stick figure to walk, run, rotate, twist, tumble and
+dance. You can save your animations to the journal and will soon be
+able to share them via the mesh. Flipsticks can be used to explore
+concepts in geometry, computer programming and animation; it helps
+develop spatial and analytical thinking skills.</description>
+    <homepage>http://wiki.sugarlabs.org/go/Activities/Flip_Sticks</homepage>
+    <implementation id="sha1new=7bb2d887fcc1ad8e3b866cae2e342e81d3cf21f5"
+                    version="6"
+                    released="2010-07-29"
+                    arch="*-*"
+                    license="GPLv2+"
+                    stability="testing"
+                    main="0sugar-run.sh"
+                    sugar:commit="9c409bd328ff9cb6c9be7665aba172982fed04f1">
+        <archive href="http://download.sugarlabs.org/packages/flipsticks/implementations/flipsticks-6-All-All.tar.gz" size="123066"/>
+    </implementation>
+</interface>
+<!-- Base64 Signature
+iQEcBAABAgAGBQJMUdM0AAoJEHI8xbS2hpuByIgH/1TGL2aYJOhMLvw6I/wCwiCSRHXS53fPpqn5
+sHoNnpUjt0/EK5+SfzFMl/GXY/D2C9W++xNZoDZRhF4U3W7tPbp3QZiLkqqcw1q1kIBwQgKW/DA7
+Myot8Untw+aqyW1cqjadUF+Y3QCjH1p8DscaDnMyj+JWVoQWXRhkay4cak4W2OYSvWD4k+qM95uu
+hEbbxKTGtG1Z4ksrh/rvmFAbGycNKZx0ATRVutGFuLoHldwxq1DBV2kyWgGsHpcWuLWpZB5hsZgJ
+ImN9mOgRSqAuKexB1Id7qUzWIRtxUiIlQO5knz9KO43tOwkA6CehWCKR2j7Lp+mWxGvKBIaSg5LG
+FeY=
+
+-->

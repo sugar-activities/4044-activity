@@ -1,0 +1,25 @@
+[Activity]
+slug      = flipsticks
+name      = Flip Sticks
+summary   = Using keyframes, program a stick figure to twist and dance
+description = Flipsticks is a keyframe animation activity that lets you pose
+            and program a stick figure to walk, run, rotate, twist, tumble and
+            dance. You can save your animations to the journal and will soon be
+            able to share them via the mesh. Flipsticks can be used to explore
+            concepts in geometry, computer programming and animation; it helps
+            develop spatial and analytical thinking skills. 
+icon      = 0sugar/activity-flipsticks.svg
+license   = GPLv2+
+homepage  = http://wiki.sugarlabs.org/go/Activities/Flip_Sticks
+
+exec      = sugar-activity activity.flipsticksActivity
+
+version   = 6
+stability = testing
+
+# deprecated
+icon      = activity-flipsticks
+bundle_id = org.worldwideworkshop.olpc.FlipSticks
+activity_version = %(version)s
+[Source]
+exclude = /activity; activity.info

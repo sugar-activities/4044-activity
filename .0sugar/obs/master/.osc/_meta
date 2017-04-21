@@ -1,0 +1,8 @@
+<package project="home:alsrooot:Sugar:Contrib" name="flipsticks">
+  <title/>
+  <description/>
+  <build>
+    <enable repository="home_alsrooot_Sugar_Platform_Fedora_11" arch="i586"/>
+    <enable repository="home_alsrooot_Sugar_Platform_Ubuntu_9.10" arch="i586"/>
+  </build>
+</package>

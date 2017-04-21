@@ -1,0 +1,181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-20 00:31-0500\n"
+"PO-Revision-Date: 2010-01-25 06:39+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#: activity/activity.info:2
+msgid "FlipSticks"
+msgstr "Flipstokken"
+
+#: activity.py:58
+msgid "Lessons"
+msgstr "Lessen"
+
+#: activity.py:107
+msgid "Set frame"
+msgstr "Beeld instellen"
+
+#: activity.py:112
+msgid "Clear frame"
+msgstr "Beeld wissen"
+
+#: activity.py:117
+msgid "Reset"
+msgstr "Opnieuw"
+
+#: activity.py:146
+msgid "Play backward / Pause"
+msgstr "Achteruit afspelen / Pauze"
+
+#: activity.py:152
+msgid "Play forward / Pause"
+msgstr "Vooruit afspelen / Pauze"
+
+#: activity.py:171
+msgid "Snapshot"
+msgstr "Momentopname"
+
+#: montage.py:657
+msgid "Angle:"
+msgstr "Hoek:"
+
+#: montage.py:677
+msgid "Size:"
+msgstr "Grootte:"
+
+#: theme.py:50
+msgid "Size"
+msgstr "Grootte"
+
+#: theme.py:51
+msgid "Angle"
+msgstr "Hoek"
+
+#: theme.py:52
+msgid "Lesson Plans"
+msgstr "Les-ideeën"
+
+#: theme.py:53
+msgid "lp-en"
+msgstr "lp-en"
+
+#: theme.py:54
+msgid "Export Frame One"
+msgstr "Beeld een exporteren"
+
+#: theme.py:55
+msgid "Head"
+msgstr "Hoofd"
+
+#: theme.py:56
+msgid "Neck"
+msgstr "Nek"
+
+#: theme.py:57
+msgid "Right Shoulder"
+msgstr "Rechter schouder"
+
+#: theme.py:58
+msgid "Upper Right Arm"
+msgstr "Bovenste gedeelte rechter arm"
+
+#: theme.py:59
+msgid "Lower Right Arm"
+msgstr "Onderste gedeelte rechter arm"
+
+#: theme.py:60
+msgid "Right Hand"
+msgstr "Rechter hand"
+
+#: theme.py:61
+msgid "Left Shoulder"
+msgstr "Linker schouder"
+
+#: theme.py:62
+msgid "Upper Left Arm"
+msgstr "Bovenste gedeelte linker arm"
+
+#: theme.py:63
+msgid "Lower Left Arm"
+msgstr "Onderste gedeelte linker arm"
+
+#: theme.py:64
+msgid "Left Hand"
+msgstr "Linker hand"
+
+#: theme.py:65
+msgid "Torso"
+msgstr "Torso"
+
+#: theme.py:66
+msgid "Right Hip"
+msgstr "Rechter heup"
+
+#: theme.py:67
+msgid "Upper Right Leg"
+msgstr "Bovenste gedeelte rechter been"
+
+#: theme.py:68
+msgid "Lower Right Leg"
+msgstr "Onderste gedeelte rechter been"
+
+#: theme.py:69
+msgid "Right Foot"
+msgstr "Rechter voet"
+
+#: theme.py:70
+msgid "Left Hip"
+msgstr "Linker heup"
+
+#: theme.py:71
+msgid "Upper Left Leg"
+msgstr "Bovenste gedeelte linker been"
+
+#: theme.py:72
+msgid "Lower Left Leg"
+msgstr "Onderste gedeelte linker been"
+
+#: theme.py:73
+msgid "Left Foot"
+msgstr "Linker voet"
+
+#~ msgid "Montage"
+#~ msgstr "Montage"
